@@ -3,5 +3,16 @@
   "version": "1.0.0",
   "main": "index.js",
   "author": "jaewan <stpjw777@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": "https://github.com/stpjw777/my-nuxt-practice.git",
+  "dependencies": {
+    "nuxt": "^2.11.0",
+    "vue": "^2.6.11"
+  },
+  "scripts": {
+    "dev": "nuxt"
+  },
+  "devDependencies": {
+    "@nuxtjs/vuetify": "^1.10.3"
+  }
 }
